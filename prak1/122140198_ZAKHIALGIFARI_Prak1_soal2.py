@@ -7,4 +7,4 @@ else:
     keliling = phi * jari2 * 2
     Luas = phi * jari2 * jari2
     print("Keliling lingkaran = " + str(keliling))
-    print("Luas lingkaran = " + str(luas))
+    print("Luas lingkaran = " + str(Luas))
